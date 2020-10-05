@@ -50,6 +50,7 @@ if (res.data.status === 200)
 })
  .catch((err) => {
  console.log(err)
+  
  })
 }
  }
